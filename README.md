@@ -1,5 +1,18 @@
-1. npm init -m
-2. npm install typescript ts-node @types/node --save-dev
-3. npx tsc --init
-4. npm i typescript
-5. npm i ts-node-dev
+1. npm i
+2. create env file in root folder
+
+
+env:
+CLIENT= 
+DATABASE = 
+USER = 
+PASSWORD = 
+PORT_PG = 
+PORT = 
+CLOUD_NAME= 
+API_KEY= 
+API_SECRET= 
+
+supperadmin:
+email = admin@gmail.com
+ps = 123
